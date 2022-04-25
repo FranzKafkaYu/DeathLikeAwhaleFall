@@ -14,9 +14,9 @@
 
 <p align="center">我们等待夜晚，黑色素被稀释至饱和</p>
 
-<p align="center">笼罩于夜空之下，乍见逐一</p>
+<p align="center">笼罩于夜空之下，乍见</p>
 
-<p align="center">升起与坠落，犹如跌散的灯火</p>
+<p align="center">逐一升起与坠落，犹如跌散的灯火</p>
 
 <p align="center">我们即湮灭在明日清晨</p>
 
